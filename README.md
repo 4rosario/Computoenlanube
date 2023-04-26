@@ -1,3 +1,3 @@
 # Computoenlanube
 Repositoriodecomputoenlanube
-Agregar la direccion del repositorio 
+Agregar  la  direccion del repositorio 
